@@ -19,25 +19,27 @@
 <ul dir="auto">
   <li><a href="http://chat.openai.com/" rel="nofollow">ChatGPT</a></li>
   <li><a href="https://www.midjourney.com/explore?tab=top_month" rel="nofollow">MidJourney</a></li>
-  <li><a href="https://elevenlabs.io/" rel="nofollow">Elevenlabs</a></li>
-  <li><a href="https://www.capcut.com/" rel="nofollow">CapCut</a></li>
+  <li><a href="https://www.naturalreaders.com/" rel="nofollow">NaturalReader</a></li>
+  <li><a href="https://www.audacityteam.org/" rel="nofollow">Audacity</a></li>
+  <li><a href="https://www.canva.com/" rel="nofollow">Canva</a></li>
 </ul>
 
 <h2 tabindex="-1" class="heading-element" dir="auto" style="text-align: left;">✨ Como foi feito?</h2>
 
 <ul dir="auto">
 <li>Roteiro gerado por chatGPT</li>
-<li>Audio gerado no elevenlabs</li>
+<li>Audio gerado no NaturalReader</li>
 <li>Midjourney para gerar capas</li>
-<li>Capcut para tratar aúdio e adicionar sons de fundo</li>
+<li>Canva para editar capas e imagens</li>
+<li>Audacity para tratar aúdio e adicionar sons de fundo</li>
 </ul>
 
 <h2 tabindex="-1" class="heading-element" dir="auto" style="text-align: left;">📚 Materiais</h2>
 
 <ul dir="auto">
 <li><a href="https://www.notion.so/PODECAST-IA-21d1b64ff08580c6b0a5da5866548235?source=copy_link">Notion</a></li>
-<li>f</li>
-<li>f</li>
+<li></li>
+<li></li>
 </ul>
 
 <h2 tabindex="-1" class="heading-element" dir="auto" style="text-align: left;">🛠️ Instruções de execução</h2>
@@ -48,8 +50,8 @@ Utilize os prompts dentro do link do Notion fornecido na parte de Materiais para
 
 <ul dir="auto">
 <li>🤖 1. Use os prompts de roteiro no chagpt</li>
-<li>🤖 2. Use os prompts de roteiro gerados pelo chatgpt no ElevenLabs</li>
-<li>🤖 3. Use os prompts de artes no midjourney</li>
+<li>🤖 2. Use os prompts de roteiro gerados pelo chatgpt no NaturalReader ou no qual você preferir</li>
+<li>🤖 3. Use os prompts de artes no midjourney ou no ChatGPT, não esqueça de selecionar a opção imagem</li>
 </ul>
 
 <h2 tabindex="-1" class="heading-element" dir="auto" style="text-align: left;">👨‍💻 Expert</h2>
