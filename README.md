@@ -55,3 +55,13 @@ Utilize os prompts dentro do link do Notion fornecido na parte de Materiais para
 </ul>
 
 <h2 tabindex="-1" class="heading-element" dir="auto" style="text-align: left;">👨‍💻 Expert</h2>
+
+<div align="left">
+  <img src="https://github.com/user-attachments/assets/b80f6c88-54a8-4a05-a0ad-0c0cbe33c85f" width="100" style="max-width: 100%;">
+</div>
+Paulo Henrique
+<ul align="left">
+  <li><a href="https://github.com/PH-moraes">GitHub</a></li>
+  <li><a href="https://www.youtube.com/@phmoraesgamestutorial">YouTube</a></li>
+</ul>
+
