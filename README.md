@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/61fd9dca-0729-4923-a1bc-d734212deb1f" width="300" style="max-width: 100%;">
+  <img src="https://github.com/user-attachments/assets/9d55cc10-3013-47c1-af25-242570dd5397" width="300" style="max-width: 100%;">
 </div>
+![IMG IA DIO](https://github.com/user-attachments/assets/9d55cc10-3013-47c1-af25-242570dd5397)
 
 <h1 tabindex="-1" class="heading-element" dir="auto">Podcast com IAs Generativa</h1>
 
